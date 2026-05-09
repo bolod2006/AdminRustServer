@@ -75,9 +75,8 @@ THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE SOFTWARE.
 
 ## 7. Contact
 
-📧 YOUR_EMAIL
-🌐 YOUR_WEBSITE
-💬 Discord: YOUR_DISCORD_TAG
+📧 bolod2006@gmail.com
+💬 Discord: [YOUR_DISCORD_TAG](https://discord.gg/k8AaJrCHZt)
 
 ---
 
