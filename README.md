@@ -25,10 +25,9 @@
 <br/>
 
 [📥 Download Live](https://github.com/bolod2006/RustAdminServer/releases) •
-[⭐ Upgrade to Pro](https://YOUR_WEBSITE.com/pro) •
 [📖 Wiki](https://github.com/bolod2006/RustAdminServer/wiki) •
 [🐛 Report Bug](https://github.com/bolod2006/RustAdminServer/issues) •
-[💬 Discord](https://discord.gg/YOUR_INVITE)
+[💬 Discord](https://discord.gg/k8AaJrCHZt)
 
 </div>
 
@@ -312,6 +311,6 @@ Made with ❤️ for Rust server administrators
 
 <br/>
 
-[![Discord](https://img.shields.io/badge/Discord-Support-5865F2?logo=discord&logoColor=white)](https://discord.gg/rustadmin)
+[![Discord](https://img.shields.io/badge/Discord-Support-5865F2?logo=discord&logoColor=white)](https://discord.gg/k8AaJrCHZt)
 
 </div>
