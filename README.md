@@ -176,7 +176,7 @@ Everything in Live, plus:
 <div align="center">
 
 ### 🗺️ Server Info & Live Map
-<img src="docs/images/screen_info.png" alt="Info Page" width="800"/>
+<img src="docs/images/preview_main.png" alt="Info Page" width="800"/>
 
 <details>
 <summary>📸 View more screenshots</summary>
@@ -184,12 +184,12 @@ Everything in Live, plus:
 <br/>
 
 ### 👥 Online Players
-<img src="docs/images/screen_online.png" alt="Online" width="800"/>
+<img src="docs/images/online.png" alt="Online" width="800"/>
 
 <br/>
 
 ### 💤 Offline Players
-<img src="docs/images/screen_offline.png" alt="Offline" width="800"/>
+<img src="docs/images/offline.png" alt="Offline" width="800"/>
 
 <br/>
 
@@ -200,8 +200,8 @@ Everything in Live, plus:
 
 ### 💻 Console & 💬 Chat
 <p>
-  <img src="docs/images/screen_console.png" width="395"/>
-  <img src="docs/images/screen_chat.png" width="395"/>
+  <img src="docs/images/console.png" width="395"/>
+  <img src="docs/images/chat.png" width="395"/>
 </p>
 
 </details>
