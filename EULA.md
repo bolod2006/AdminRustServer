@@ -199,9 +199,8 @@ Continued use after changes constitutes acceptance.
 For questions about this EULA, license activation, transfers,
 or commercial inquiries:
 
-📧 **Email:** YOUR_EMAIL\
-🌐 **Website:** YOUR_WEBSITE\
-💬 **Discord:** say3224
+📧 **Email:** bolod2006@gmail.com
+💬 **Discord:** [say3224](https://discord.gg/k8AaJrCHZt)
 
 ---
 
