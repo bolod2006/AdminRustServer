@@ -238,9 +238,49 @@ rcon.port     28016
 rcon.password "your_strong_password_here"
 rcon.web      true
 ```
-❓ FAQ
-<details> <summary><b>Does it work without the server plugin?</b></summary> Yes. Standard RCON works without any plugins. The plugin only adds building locations on the map. </details><details> <summary><b>Is Steam API Key required?</b></summary> No, but recommended. Without it, VAC status and avatars are unavailable. </details><details> <summary><b>Is RustMaps API Key required?</b></summary> No, but recommended. Without it, the map image won't load. </details><details> <summary><b>Can I run it on multiple PCs?</b></summary> Live edition — yes, any Windows PC. Pro license is hardware-bound to one device. </details><details> <summary><b>Can I modify the software?</b></summary> No. Modification and redistribution are strictly prohibited. See LICENSE.md. </details>
+## License
 
+RustAdminServer is proprietary software.
+
+- **Live Edition** is free to use in original form only.
+- **Pro Edition** is licensed, not sold.
+- Modification, redistribution, resale, sublicensing, and publishing modified versions are prohibited without prior written permission.
+- Pro licenses may be hardware-bound and are non-transferable unless explicitly approved by the author.
+
+See [LICENSE.md](LICENSE.md) for full terms.
+
+## ❓ FAQ
+<details> <summary><b>Does it work without the server plugin?</b></summary>
+Yes. The panel connects via standard RCON and works fully without
+any plugins. The companion plugin only adds building/cupboard locations on the map (Pro feature).
+
+</details><details> <summary><b>Is Steam API Key required?</b></summary>
+No, but recommended. Without it, VAC ban status and player avatar loading are unavailable.
+All other features work normally.
+
+</details><details> <summary><b>Is RustMaps API Key required?</b></summary>
+No, but recommended. Without it, the map page won't display the server map image.
+Player positions are still tracked.
+
+</details><details> <summary><b>What's the difference between Live and Pro?</b></summary>
+Live is free and includes all core admin tools.
+Pro adds advanced features: teleport, give items, scheduled commands, and building tracker.
+See the Editions section for full comparison.
+
+</details><details> <summary><b>Can I use the software on multiple computers?</b></summary>
+The Live edition can be run on any Windows PC.
+The Pro license is hardware-bound and tied to a specific device.
+Contact us for details about additional activations.
+
+</details><details> <summary><b>Does it work with Carbon or modded servers?</b></summary>
+Yes. The panel uses standard RCON protocol, compatible with vanilla Rust,
+Oxide, uMod, and Carbon servers.
+
+</details><details> <summary><b>Can I modify the software?</b></summary>
+No. Modification, repackaging, and redistribution are strictly prohibited.
+See LICENSE.md for full terms.
+
+</details>
 <div align="center">
 
 <br/>
