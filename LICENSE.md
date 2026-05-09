@@ -1,6 +1,6 @@
 # RustAdminServer — License Agreement
 
-**Copyright © 2024 YOUR_NAME. All Rights Reserved.**
+**Copyright © 2026 YAHENI MARTSINKEVICH. All Rights Reserved.**
 
 ---
 
@@ -81,4 +81,4 @@ THE AUTHOR IS NOT LIABLE FOR ANY DAMAGES ARISING FROM USE OF THE SOFTWARE.
 
 ---
 
-*© 2024 YOUR_NAME — All Rights Reserved*
+*© 2024 YAHENI MARTSINKEVICH — All Rights Reserved*
