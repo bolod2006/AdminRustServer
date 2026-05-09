@@ -28,7 +28,7 @@ Thumbs.db
 .DS_Store
 Desktop.ini
 
-# Project — НИКОГДА не загружай эти файлы!
+
 *.log
 userconfig.json
 config.local.json
