@@ -25,12 +25,10 @@
 <br/>
 
 [📥 Download Live](https://github.com/bolod2006/RustAdminServer/releases) •
-[📖 Wiki](https://github.com/bolod2006/RustAdminServer/wiki) •
 [🐛 Report Bug](https://github.com/bolod2006/RustAdminServer/issues) •
 [💬 Discord](https://discord.gg/k8AaJrCHZt)
 
 </div>
-
 ---
 
 ## 📋 Table of Contents
