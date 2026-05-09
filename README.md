@@ -237,3 +237,41 @@ rcon.ip       "0.0.0.0"
 rcon.port     28016
 rcon.password "your_strong_password_here"
 rcon.web      true
+```
+❓ FAQ
+<details> <summary><b>Does it work without the server plugin?</b></summary> Yes. Standard RCON works without any plugins. The plugin only adds building locations on the map. </details><details> <summary><b>Is Steam API Key required?</b></summary> No, but recommended. Without it, VAC status and avatars are unavailable. </details><details> <summary><b>Is RustMaps API Key required?</b></summary> No, but recommended. Without it, the map image won't load. </details><details> <summary><b>Can I run it on multiple PCs?</b></summary> Live edition — yes, any Windows PC. Pro license is hardware-bound to one device. </details><details> <summary><b>Can I modify the software?</b></summary> No. Modification and redistribution are strictly prohibited. See LICENSE.md. </details>
+
+<div align="center">
+
+<br/>
+
+### ⭐ Star this project if you find it useful!
+
+<br/>
+
+Made with ❤️ for Rust server administrators
+
+<br/>
+
+<table>
+<tr>
+<td align="center">
+  <b>🆓 Live Edition</b><br/><br/>
+  <a href="https://github.com/ZIZI/RustAdminServer/releases">
+    <img src="https://img.shields.io/badge/Download-Free-43B581?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</td>
+<td align="center">
+  <b>⭐ Pro Edition</b><br/><br/>
+  <a href="https://rustadminserver.com/pro">
+    <img src="https://img.shields.io/badge/Upgrade-Pro-FFD700?style=for-the-badge&logo=star&logoColor=black"/>
+  </a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-Support-5865F2?logo=discord&logoColor=white)](https://discord.gg/rustadmin)
+
+</div>
