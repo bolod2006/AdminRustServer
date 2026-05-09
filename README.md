@@ -10,8 +10,8 @@
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![WPF](https://img.shields.io/badge/UI-WPF-0078D4?logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE.md)
-[![Version](https://img.shields.io/badge/Version-0.2.0-brightgreen)](https://github.com/YOUR_USERNAME/RustAdminServer/releases)
-[![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/RustAdminServer?style=social)](https://github.com/YOUR_USERNAME/RustAdminServer)
+[![Version](https://img.shields.io/badge/Version-0.2.0-brightgreen)](https://github.com/bolod2006/RustAdminServer/releases)
+[![Stars](https://img.shields.io/github/stars/bolod2006/RustAdminServer?style=social)](https://github.com/bolod2006/RustAdminServer)
 
 <br/>
 
@@ -24,10 +24,10 @@
 
 <br/>
 
-[📥 Download Live](https://github.com/YOUR_USERNAME/RustAdminServer/releases) •
+[📥 Download Live](https://github.com/bolod2006/RustAdminServer/releases) •
 [⭐ Upgrade to Pro](https://YOUR_WEBSITE.com/pro) •
-[📖 Wiki](https://github.com/YOUR_USERNAME/RustAdminServer/wiki) •
-[🐛 Report Bug](https://github.com/YOUR_USERNAME/RustAdminServer/issues) •
+[📖 Wiki](https://github.com/bolod2006/RustAdminServer/wiki) •
+[🐛 Report Bug](https://github.com/bolod2006/RustAdminServer/issues) •
 [💬 Discord](https://discord.gg/YOUR_INVITE)
 
 </div>
@@ -74,7 +74,7 @@
 
 <br/>
 
-**[📥 Download Free](https://github.com/YOUR_USERNAME/RustAdminServer/releases)**
+**[📥 Download Free](https://github.com/bolod2006/RustAdminServer/releases)**
 
 </td>
 <td align="center" width="50%">
@@ -222,7 +222,7 @@ Everything in Live, plus:
 
 ### Installation
 
-1. Go to **[Releases](https://github.com/YOUR_USERNAME/RustAdminServer/releases)**
+1. Go to **[Releases](https://github.com/bolod2006/RustAdminServer/releases)**
 2. Download `RustAdminServer-v0.2.0.zip`
 3. Extract to any folder
 4. Run `RustAdminServer.exe`
