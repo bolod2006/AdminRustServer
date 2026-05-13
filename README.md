@@ -5,14 +5,17 @@
 # 🎮 Rust Admin Server
 
 **Modern RCON administration panel for Rust game servers**
+## 🔌 Plugin (uMod / Oxide / Carbon)
+
+**Oxide/Carbon support**
 
 [![Platform](https://img.shields.io/badge/Platform-Windows-0078D4?logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![.NET](https://img.shields.io/badge/.NET-8.0-512BD4?logo=dotnet&logoColor=white)](https://dotnet.microsoft.com/)
 [![WPF](https://img.shields.io/badge/UI-WPF-0078D4?logo=windows&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 [![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE.md)
 [![Version](https://img.shields.io/badge/Version-0.2.0-brightgreen)](https://github.com/bolod2006/RustAdminServer/releases)
-[![Stars](https://img.shields.io/github/stars/bolod2006/RustAdminServer?style=social)](https://github.com/bolod2006/RustAdminServer)
-
+[![Stars](https://img.shields.io/github/stars/bolod2006/RustAdminServer?style=social)](https://github.com/bolod2006/RustAdminServer) <br/>
+[<img src="https://assets.umod.org/images/umod-gray-nomargin.png" alt="Rust Admin Server" width="100"/>](https://umod.org)
 <br/>
 
 > ⚠️ **Proprietary Software** — Modification, redistribution and resale are prohibited.
