@@ -2,7 +2,7 @@
 
 <img src="docs/images/logo.png" alt="Rust Admin Server" width="120"/>
 
-# 🎮 Rust Admin Server
+# 🎮  Admin Server Rust
 
 **Modern RCON administration panel for Rust game servers**
 ## 🔌 Plugin (uMod / Oxide / Carbon)
